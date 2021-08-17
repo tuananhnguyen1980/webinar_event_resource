@@ -58,14 +58,6 @@ The default footer link may be changed to:
 
     Thanks to OS Templates
     <p class="fl_right">Thanks to <a href="https://www.os-templates.com/" title="Free Website Templates">OS Templates</a></p>
-    
-    Never gonna give you up
-    Never gonna let you down
-    Never gonna run around and desert you
-    Never gonna make you cry
-    Never gonna say goodbye
-    Never gonna tell a lie and hurt you
-    CYBEXX_FLAG{r1ckr0ll3d_4nd_n0_fl4g}
 
 For companies or individuals that wish to add their information to the template footer please feel free to modify the link as such:
 
